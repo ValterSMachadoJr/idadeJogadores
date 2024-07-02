@@ -1,0 +1,11 @@
+.jogadorVelho{
+    color:blue;
+    font-size: 40px;
+    text-align: center;
+}
+
+.jogadorNovo{
+    color: red;
+    font-size: 40px;
+    text-align: center;
+}
